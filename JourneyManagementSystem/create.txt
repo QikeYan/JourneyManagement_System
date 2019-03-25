@@ -1,0 +1,8 @@
+route3 journey9 A-gansu-01:33 B-qinghai-08:46 C-xinjiang-13:44 D-xizang-22:35
+route8 journey4 A-tianjin-12:33 B-*-* C-beijing-17:45 D-*-*
+route1 journey9 A-gansu-01:33 B-qinghai-08:46 C-xinjiang-21:44 D-xizang-23:35
+route88 journey88 A-aaa-22:36 B-ddd-22:37 C-dde-22:38 D-*-*
+route22 journey7 A-aaa-22:44 B-bbb-22:45 C-*-* D-ccc-22:55
+route4 journey9 A-gansu-14:33 B-qinghai-22:55 C-xinjiang-22:57 D-xizang-23:55
+route4 journey8 A-aaaa-14:33 B-bbbb-22:56 C-ccccc-23:33 D-ddddd-23:44
+route1 journey3 A-shenzhen-23:18 B-zhuhai-23:28 C-xiamen-23:44 D-*-*
